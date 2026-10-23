@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome Data Agents</title>
+  <desc id="desc">Data Agent architectures, context, execution and verification, with a violet workflow illustration on dark navy.</desc>
+  <defs><linearGradient id="bg" x2="760" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#151C31"/><stop offset="1" stop-color="#252341"/></linearGradient></defs>
+  <rect x="1" y="1" width="758" height="268" rx="18" fill="url(#bg)" stroke="#3D3D61" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="34" y="48" fill="#BBABF6" font-size="15" font-weight="600" letter-spacing="2">02 / DESIGN &amp; VERIFY</text>
+    <text x="32" y="104" fill="#F2F3FF" font-size="35" font-weight="700">Awesome</text>
+    <text x="32" y="149" fill="#F2F3FF" font-size="35" font-weight="700">Data Agents</text>
+    <text x="34" y="218" fill="#B8BAD4" font-size="19">Context · Execution · Verification</text>
+  </g>
+  <g stroke="#A89CF1" stroke-width="1.8">
+    <rect x="506" y="71" width="72" height="50" rx="9" fill="#A89CF1" fill-opacity=".07"/>
+    <rect x="624" y="71" width="72" height="50" rx="9" fill="#A89CF1" fill-opacity=".07"/>
+    <rect x="624" y="163" width="72" height="50" rx="9" fill="#A89CF1" fill-opacity=".07"/>
+    <rect x="506" y="163" width="72" height="50" rx="9" fill="#A89CF1" fill-opacity=".07"/>
+    <path d="M578 96H619M660 121V158M624 188H583M542 163V126" stroke-opacity=".55"/>
+    <path d="M613 91L619 96L613 101M655 152L660 158L665 152M589 183L583 188L589 193M537 132L542 126L547 132" stroke-opacity=".65"/>
+  </g>
+  <g fill="#C0B4FF"><circle cx="542" cy="96" r="5"/><circle cx="660" cy="96" r="5"/><circle cx="542" cy="188" r="5"/></g>
+  <path d="M648 188L656 196L672 180" stroke="#9CE2D7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

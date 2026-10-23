@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">LLM Interview Warehouse</title>
+  <desc id="desc">A curated map of LLM interviews, topics and practice, with a cyan network illustration on dark navy.</desc>
+  <defs><linearGradient id="bg" x2="760" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#101C2C"/><stop offset="1" stop-color="#102935"/></linearGradient></defs>
+  <rect x="1" y="1" width="758" height="268" rx="18" fill="url(#bg)" stroke="#2D4754" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="34" y="48" fill="#75DACE" font-size="15" font-weight="600" letter-spacing="2">01 / LEARN &amp; PRACTICE</text>
+    <text x="32" y="104" fill="#F0F7FC" font-size="35" font-weight="700">LLM Interview</text>
+    <text x="32" y="149" fill="#F0F7FC" font-size="35" font-weight="700">Warehouse</text>
+    <text x="34" y="218" fill="#A6C1CD" font-size="19">Interviews · Topics · Practice</text>
+  </g>
+  <g stroke="#63D1CA" stroke-opacity=".52" stroke-width="1.6">
+    <path d="M565 83L657 128L577 191L510 143ZM565 83L577 191M510 143L657 128"/>
+    <path d="M657 128L700 86M577 191L665 218M510 143L479 70" stroke-opacity=".3"/>
+  </g>
+  <g fill="#8AE4DB"><circle cx="565" cy="83" r="7"/><circle cx="657" cy="128" r="9"/><circle cx="577" cy="191" r="7"/><circle cx="510" cy="143" r="6"/></g>
+  <g fill="#477C87"><circle cx="700" cy="86" r="4"/><circle cx="665" cy="218" r="4"/><circle cx="479" cy="70" r="4"/></g>
+</svg>

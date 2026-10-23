@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Pyramiding</title>
+  <desc id="desc">Dark navy profile banner with a cyan and violet geometric pyramid. LLMs, Agents and Data Intelligence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1424"/><stop offset=".55" stop-color="#101A2C"/><stop offset="1" stop-color="#111A31"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="992" y1="370" x2="1370" y2="84" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#45D6CE"/><stop offset=".52" stop-color="#76A9FF"/><stop offset="1" stop-color="#A99BFF"/>
+    </linearGradient>
+    <linearGradient id="face" x1="1220" y1="94" x2="1220" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C88FF" stop-opacity=".15"/><stop offset="1" stop-color="#58CFFF" stop-opacity=".02"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1230 235) rotate(90) scale(255 360)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4566CF" stop-opacity=".23"/><stop offset="1" stop-color="#4566CF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#557090" fill-opacity=".17"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="1598" height="458" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1600" height="460" fill="url(#bg)"/>
+    <rect x="830" width="770" height="460" fill="url(#dots)"/>
+    <ellipse cx="1230" cy="235" rx="360" ry="255" fill="url(#glow)"/>
+    <path d="M0 459H1600" stroke="#66D8E8" stroke-opacity=".22"/>
+    <path d="M72 74H108" stroke="#63DDD1" stroke-width="3"/>
+    <text x="124" y="81" fill="#9EADC4" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="3">RESEARCH × ENGINEERING</text>
+    <text x="68" y="211" fill="#F2F6FF" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="700" letter-spacing="-4">Pyramiding</text>
+    <text x="74" y="272" fill="#B9C9E0" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing=".2">LLMs, agents &amp; data intelligence.</text>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="1.1">
+      <rect x="74" y="331" width="96" height="38" rx="19" fill="#57D6CA" fill-opacity=".09" stroke="#57D6CA" stroke-opacity=".34"/>
+      <text x="122" y="356" text-anchor="middle" fill="#86E6DC">LLMs</text>
+      <rect x="184" y="331" width="126" height="38" rx="19" fill="#6BA9FF" fill-opacity=".09" stroke="#6BA9FF" stroke-opacity=".34"/>
+      <text x="247" y="356" text-anchor="middle" fill="#A2C7FF">AGENTS</text>
+      <rect x="324" y="331" width="216" height="38" rx="19" fill="#A393FF" fill-opacity=".09" stroke="#A393FF" stroke-opacity=".34"/>
+      <text x="432" y="356" text-anchor="middle" fill="#C7BBFF">DATA INTELLIGENCE</text>
+    </g>
+    <g stroke="url(#edge)" stroke-linejoin="round">
+      <path d="M1223 87L1014 330L1223 395L1432 330Z" fill="url(#face)" stroke-width="2"/>
+      <path d="M1223 87V395M1014 330L1223 260L1432 330" stroke-width="1.5" stroke-opacity=".65"/>
+      <path d="M1178 139L1223 153L1268 139M1134 190L1223 218L1312 190M1089 242L1223 284L1357 242M1048 291L1223 346L1398 291" stroke-width="1.4" stroke-opacity=".68"/>
+      <path d="M1223 153L1189 320M1223 218L1157 375M1268 139L1303 353M1312 190L1378 348" stroke-width="1" stroke-opacity=".19"/>
+    </g>
+    <g fill="#A0C8FF">
+      <circle cx="1223" cy="87" r="5"/><circle cx="1014" cy="330" r="4"/><circle cx="1432" cy="330" r="4"/><circle cx="1223" cy="395" r="4"/>
+      <circle cx="1223" cy="218" r="3" fill="#B4A7FF"/><circle cx="1134" cy="190" r="3" fill="#7BDAD6"/><circle cx="1357" cy="242" r="3"/>
+    </g>
+    <path d="M980 133H1062M1426 201H1513M1384 383H1493" stroke="#7288B5" stroke-opacity=".27"/>
+    <text x="1476" y="75" text-anchor="end" fill="#7184A3" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">OPEN KNOWLEDGE</text>
+  </g>
+  <rect x="1" y="1" width="1598" height="458" rx="24" stroke="#25334A" stroke-width="2"/>
+</svg>
