@@ -48,8 +48,8 @@
 
 ## 最近整理
 
-- **2026.10.23** · [补充牛客与 LeetCode 面经](https://github.com/Pyramiding/llm-interview-warehouse/blob/main/docs/nowcoder-leetcode-2026-10-23.md)，完善公司、技术方向与业务交叉索引。
-- **2026.10.22** · [整理 Data Agent 资料与工程参考](https://github.com/Pyramiding/awesome-data-agents)，连接上下文、执行、验证与治理。
+- **2026.11.02** · [新增 22 篇大模型公开面经](https://github.com/Pyramiding/llm-interview-warehouse/blob/main/docs/incremental-2026-11-02.md)，补充 6 个分级阅读入口与 106 条改写问法，完善日期核验、同源去重和分类索引。
+- **2026.11.02** · [增补 17 条 Data Agent 资料](https://github.com/Pyramiding/awesome-data-agents/blob/main/UPDATES.md#2026-11-02)，累计收录 150 条，同步更新 6 个项目与 1 份产品文档。
 
 **回到原始来源 → 理解机制与边界 → 组织索引与练习 → 检查与修订。** 欢迎通过项目 Issues 补充资料、纠错或交流。
 
