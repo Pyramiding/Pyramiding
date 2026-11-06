@@ -48,8 +48,8 @@
 
 ## 最近整理
 
-- **2026.11.02** · [新增 22 篇大模型公开面经](https://github.com/Pyramiding/llm-interview-warehouse/blob/main/docs/incremental-2026-11-02.md)，补充 6 个分级阅读入口与 106 条改写问法，完善日期核验、同源去重和分类索引。
-- **2026.11.02** · [增补 17 条 Data Agent 资料](https://github.com/Pyramiding/awesome-data-agents/blob/main/UPDATES.md#2026-11-02)，累计收录 150 条，同步更新 6 个项目与 1 份产品文档。
+- **2026.11.05** · [扩充大模型应用与 LLM Infra 面经](https://github.com/Pyramiding/llm-interview-warehouse/blob/main/docs/expansion-applications-infra-2026-11-05.md)，累计 161 篇面经、414 道专题题解与 26 道项目/手写练习，支持 23 个专题和 29 个细分方向检索。
+- **2026.11.05** · [扩充 Data Agent 技术文档与公开分享](https://github.com/Pyramiding/awesome-data-agents/blob/main/UPDATES.md)，累计收录 168 条，补齐 5 个重点项目的资料路线，并上线支持搜索、筛选与收藏的网页版。
 
 **回到原始来源 → 理解机制与边界 → 组织索引与练习 → 检查与修订。** 欢迎通过项目 Issues 补充资料、纠错或交流。
 
